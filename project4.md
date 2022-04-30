@@ -60,6 +60,6 @@ Start the server by running `node server.js`
 ![port-3300](./images/port-3300.PNG)
 - Access Book Register web application from the Internet with a browser using Public IP address or Public DNS name
 ![books](./images/books.PNG)
-
+committed
 
 
