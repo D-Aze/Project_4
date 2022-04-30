@@ -59,8 +59,6 @@ Start the server by running `node server.js`
 - Open TCP port 3300 in AWS Web Console for EC2 Instance
 ![port-3300](./images/port-3300.PNG)
 - Access Book Register web application from the Internet with a browser using Public IP address or Public DNS name
-![books](./images/books.PNG)
-
-
-
-
+![unfilled-register](./images/unfilled-register.PNG)
+![filled-register](./images/filled-register.PNG)
+![proof](./images/proof.PNG)
